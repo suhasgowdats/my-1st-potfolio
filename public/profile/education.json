@@ -1,0 +1,25 @@
+{
+    "education":[
+        {
+            "title": "Jun 2015 - Jun 2019",
+            "cardTitle": "B.E, Mechanical Engineering",
+            "cardSubtitle":"Ghousia College Of Engineering, Ramanagara",
+            "cardDetailedText": "CGPA - 6.8",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Apr 2013",
+            "cardTitle": "PUC",
+            "cardSubtitle":"Cambridge PU College Of Science, Channapatna",
+            "cardDetailedText": "Marks - 73.5%"
+        },
+        {
+            "title": "Apr 2012",
+            "cardTitle": "SSLC",
+            "cardSubtitle":"New Millennium English High School, City",
+            "cardDetailedText": "Marks - 81.92%"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/chatapp.png",
+            "title": "Simple ChatApp",
+            "bodyText": "- MERN stack application using socket io, which is easy to chat\n -  Fully customisable and dynamic.\n ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/suhasgowdats/chatapp-frontend-project3"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://voluble-halva-03762b.netlify.app"
+                }
+            ],
+            "tags" : [
+                "ReactJS",
+                "Nodejs",
+                "MongoDB",
+                "Chakra UI",
+                "Heroku",
+                "Netlify"
+            ]
+        },
+        {
+            "image" : "images/projects/e-comm.png",
+            "title": "E-commerce Website",
+            "bodyText": "- An MERN stack e-comm website which is dynamic to add and buy items\n - Website where everyone can create account and add there products.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/suhasgowdats/e-com-frontend-project"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://spontaneous-fenglisu-4b9843.netlify.app"
+                }
+            ],
+            "tags" : [
+                "ReactJS",
+                "Nodejs",
+                "MongoDB",
+                "Material UI",
+                "React Bootstrap",
+                "Heroku",
+                "Netlify" 
+            ]
+        },
+        {
+            "image" : "images/projects/prettyCash.png",
+            "title": "PrettyCash",
+            "bodyText": "- An MERN stack cash managment website which is dynamic to know the folw of your cash\n - Users can add their bills to know their cash out flow and judge the usage.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/suhasgowdats/prettycash-frontend"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://jocular-khapse-12cf45.netlify.app"
+                }
+            ],
+            "tags" : [
+                "ReactJS",
+                "Nodejs",
+                "MongoDB",
+                "Material UI",
+                "Chakra UI",
+                "Heroku",
+                "Netlify"                
+            ]
+        },
+        {
+            "image" : "images/projects/shoe banner.jpg",
+            "title": "Shoe shop",
+            "bodyText": "- An MERN stack shoe booking website which is dynamic to know the folw of your cash\n - Authorized admin can add their produts.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/suhasgowdats/shoeapp-frontend"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://teal-llama-464f16.netlify.app"
+                }
+            ],
+            "tags" : [
+                "ReactJS",
+                "Nodejs",
+                "MongoDB",
+                "Material UI",
+                "Chakra UI",
+                "Heroku",
+                "Netlify"                
+            ]
+        }
+    ]
+}
